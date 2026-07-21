@@ -17,8 +17,8 @@
 *注：作者一开始（≈2024-02）开始写代码的时候追求极简风，导致了一堆代码风不兼容的问题，和Daimayuan-ZhouSai-YueSai-Problem的R20之前是1个道理……作者已修复大部分代码的画风不兼容问题……*
 
 *作者为了防止VSCode直接编译人士因中文文件名报错，故全部改为英文文件名……*
-*大家可以自己根据[Daimayuan老月赛(2025-10以前)](oj.daimayuan.top)和[Daimayuan新月赛(2025-10及以后](newoj.daimayuan.top)来写……*
+*大家可以自己根据[Daimayuan老月赛(2025-10以前)](http://oj.daimayuan.top)和[Daimayuan新月赛(2025-10及以后](https://newoj.daimayuan.top)来写……*
 
 现在可能会更新DYP，但大多数更新会在DZYP(DZP+DYP)上发布
 
-[DZYP](github.com/Huo-Tian/Daimayuan-ZhouSai-Yuesai-Problem)
+[DZYP](https://github.com/Huo-Tian/Daimayuan-ZhouSai-Yuesai-Problem)
